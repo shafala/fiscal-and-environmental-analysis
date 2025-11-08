@@ -3,7 +3,7 @@ Statistical comparison of UK and Luxembourg fiscal policies (2007–2022) and an
 
 # Statistical Analysis: Fiscal Policy & CO₂ Emissions
 
-This repository contains two statistical reports prepared in Excel as part of an academic research project in applied economics.
+This repository contains two statistical reports prepared in Excel as part of an academic project in statistics.
 
 ## 📊 Report 1: Deficits, Discipline, and Design
 **A Statistical Comparison of UK and Luxembourg Fiscal Policy (2007–2022)**  
